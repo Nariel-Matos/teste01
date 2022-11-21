@@ -1,0 +1,89 @@
+.descricao {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.382174px;
+
+    /* Cor de texto/#191919 */
+
+    color: #191919;
+}
+
+
+.cep {
+    background: #F8F8F8;
+    border: 1.7px solid #858585;
+    height: 38px;
+    border-radius: 8px;
+
+}
+
+.preco {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 650;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: -0.382174px;
+
+    /* Cores/Botões */
+
+    color: #B7005C;
+}
+
+.descricao-carrinho {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height, or 125% */
+
+    letter-spacing: -0.382174px;
+
+    color: #B7005C;
+}
+
+.botao-comprar {
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    background: #B7005C;
+    border-radius: 24px;
+}
+
+.botao-cep {
+    background: #F4F4F4;
+    border-radius: 6px
+}
+
+.outros-p {
+    margin-top: 40px;
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: -0.382174px;
+
+
+
+    color: #383842;
+
+}
+
+.descricao-card {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: -0.382174px;
+
+    /* Cores/#D10070 */
+
+    color: #D10070;
+}

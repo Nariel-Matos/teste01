@@ -1,0 +1,26 @@
+.descricao {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: -0.382174px;
+
+    /* Cor de texto/#191919 */
+
+    color: #191919;
+
+}
+
+.preco {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 38px;
+    letter-spacing: -0.382174px;
+
+
+
+    color: #D10070;
+}

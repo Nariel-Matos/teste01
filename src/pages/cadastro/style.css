@@ -1,0 +1,45 @@
+.titulo1 {
+
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+
+    letter-spacing: -0.382174px;
+
+    /* Cor de texto/383842 */
+
+    color: #383842;
+}
+
+.cadastre-se {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    letter-spacing: -0.382174px;
+
+    /* Cor de texto/383842 */
+
+    color: #383842;
+}
+
+.input-loja {
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    letter-spacing: -0.382174px;
+
+    /* Cor de texto/383842 */
+
+    color: #383842;
+}
